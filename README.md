@@ -11,4 +11,4 @@ Over the late 50 years the global fertility rate has halved. The modernization o
 Current perspectives propose that this sharp decline in fertility rates is due to the social mobility of women – through education, labor force participation, and strengthened women’s rights – and the increased well-being and status of children. We seek to examine such perspectives in exploring the relationship between fertility rates and country, gender, and human development indicators. 
 
 ## Data sources
-Data are sourced from the Human Development Reports published by the United Nations Develop- ment Programme and World Development Indicators published by the World Bank. Preprocessed datasets were imported from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
+Data are sourced from the Human Development Reports published by the United Nations Development Programme and World Development Indicators published by the World Bank. Preprocessed datasets were imported from [lab06](https://github.com/ucsb-ds/pstat100-content/tree/main/labs/lab6-regression/data). 
