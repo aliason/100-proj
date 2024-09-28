@@ -1,9 +1,9 @@
 # Research Project: Analysis of Fertility Rates 
 
 ## Project description: 
-This repository contains the code for the final course project of PSTAT 100 (Data Science Concepts & Analysis) at the University of California, Santa Barbara taken in Spring 2023. Students practice the data science life cycle by conducting in-depth analysis on a research topic of their choosing, demonstrating key course concepts such as prediction, principles of measurement, missing data, and notions of causality.
+This repository contains the code for the final course project of PSTAT 100 (Data Science Concepts & Analysis) at the University of California, Santa Barbara taken in Spring 2023. Students practice the data science lifecycle on a research topic of their choosing, demonstrating key course concepts such as inference and prediction, principles of measurement, missing data, and notions of causality.
 
-My project investigates the decline in fertility rates across select developed nations in 2018 and seeks to identify the key predictors of this trend. To this end, I will analyze relationships between gender, country, and world development indicators and implement multiple techniques to quantify their effect on total fertility rates. I will be pulling data from multiple official sources and using scientific computing tools in Python to facilitate my analysis.
+My project examines the decline in fertility rates across select developed nations in 2018 and seeks to quantify the contribution of gender, country, and world development indicators to total fertility rates. I will be conducting in-depth analysis of fertility data in Python and implementing multiple techniques to address my research questions.  
 
 ## Problem statement
 Over the late 50 years, the global fertility rate has halved. Modernization and technological advancements were coupled with a stark decline in fertility rates and accelerated population growth, which was predicted to come to an end as total fertility rates – measured as the average number of children per woman – continue to fall. As of 2021, the global fertility rate is 1.66 and falling.  
