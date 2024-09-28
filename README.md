@@ -18,9 +18,12 @@ Data are sourced from the [United Nations Development Programme](https://www.und
 First, I will provide background information, specify my data sources, and define my research questions. I will then conduct exploratory analysis and refine the dataset to isolate my factors of interest, using Python data science libraries to facilitate data cleaning and visualization. I perform correlation analysis to inspect relationships; prinicpal component analysis (PCA) to identify key drivers of variability; and multiple regression analysis t
 
 ## Methods used
-* Data tidying  
-* Feature selection 
+* Data processing
+* Data cleaning 
 * Feature engineering 
-* Data visualization
-* Principal component analysis
-* Multiple regression 
+* Exploratory data analysis 
+    * Summary statistics 
+    * Data visualization
+    * Correlation analysis 
+* Dimensionality reduction (PCA) 
+* Multiple regression
